@@ -1,5 +1,6 @@
 {
   "home": "/home-backgrounds/01-home-dao-yuan.webp",
+  "heroBgMainPng": "/home-backgrounds/hero-bg-main.png",
   "liuyao": "/home-backgrounds/02-liuyao-background.webp",
   "ziwei": "/home-backgrounds/03-ziwei-background.webp",
   "palmistry": "/home-backgrounds/04-palmistry-background.webp",
@@ -28,6 +29,7 @@
   "advancedMethodsHub": "/home-backgrounds/27-advanced-methods-hub-background.webp",
   "faceReadingReferenceBeta": "/home-backgrounds/reference-legacy/11-face-reading-beta-reference.webp",
   "ritualSplash": "/ritual-splash/ritual-splash-main.webp",
+  "splashBgMainPng": "/ritual-splash/splash-bg-main.png",
   "logoReverse": "/logo-seal/dao-yuan-logo-reverse-original.png",
   "sealTransparent": "/logo-seal/dao-yuan-seal-transparent.png",
   "transparentOverlays": {

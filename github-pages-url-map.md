@@ -9,6 +9,7 @@ The included workflow `.github/workflows/pages.yml` publishes the `public` direc
 | Manifest key | Purpose | Public path | Final URL pattern |
 | --- | --- | --- | --- |
 | `home` | Dao Yuan home hero background | `/home-backgrounds/01-home-dao-yuan.webp` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/01-home-dao-yuan.webp` |
+| `heroBgMainPng` | Original main hero PNG | `/home-backgrounds/hero-bg-main.png` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/hero-bg-main.png` |
 | `liuyao` | Liuyao page hero background | `/home-backgrounds/02-liuyao-background.webp` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/02-liuyao-background.webp` |
 | `ziwei` | Zi Wei page hero background | `/home-backgrounds/03-ziwei-background.webp` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/03-ziwei-background.webp` |
 | `palmistry` | Palmistry page hero background | `/home-backgrounds/04-palmistry-background.webp` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/04-palmistry-background.webp` |
@@ -37,6 +38,7 @@ The included workflow `.github/workflows/pages.yml` publishes the `public` direc
 | `advancedMethodsHub` | Advanced methods hub hero background | `/home-backgrounds/27-advanced-methods-hub-background.webp` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/27-advanced-methods-hub-background.webp` |
 | `faceReadingReferenceBeta` | Legacy/reference face-reading background, not recommended as the formal page default | `/home-backgrounds/reference-legacy/11-face-reading-beta-reference.webp` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/reference-legacy/11-face-reading-beta-reference.webp` |
 | `ritualSplash` | Ritual splash background | `/ritual-splash/ritual-splash-main.webp` | `https://zkhyww.github.io/dao-yuan-assets/ritual-splash/ritual-splash-main.webp` |
+| `splashBgMainPng` | Original ritual splash PNG | `/ritual-splash/splash-bg-main.png` | `https://zkhyww.github.io/dao-yuan-assets/ritual-splash/splash-bg-main.png` |
 | `cloud01` | Opaque cloud atmosphere reference 01, not a transparent overlay | `/opaque-cloud-references/cloud-01.png` | `https://zkhyww.github.io/dao-yuan-assets/opaque-cloud-references/cloud-01.png` |
 | `cloud02` | Opaque cloud atmosphere reference 02, not a transparent overlay | `/opaque-cloud-references/cloud-02.png` | `https://zkhyww.github.io/dao-yuan-assets/opaque-cloud-references/cloud-02.png` |
 | `cloud03` | Opaque cloud atmosphere reference 03, not a transparent overlay | `/opaque-cloud-references/cloud-03.png` | `https://zkhyww.github.io/dao-yuan-assets/opaque-cloud-references/cloud-03.png` |

@@ -48,11 +48,19 @@ Do not upload, copy, move, recompress, rename, or otherwise process any images. 
 | `nameEvaluation` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/26-name-evaluation-background.webp` |
 | `advancedMethodsHub` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/27-advanced-methods-hub-background.webp` |
 
+## Original Main PNG Assets
+
+| Key | URL |
+| --- | --- |
+| `heroBgMainPng` | `https://zkhyww.github.io/dao-yuan-assets/home-backgrounds/hero-bg-main.png` |
+| `splashBgMainPng` | `https://zkhyww.github.io/dao-yuan-assets/ritual-splash/splash-bg-main.png` |
+
 ## Ritual Splash
 
 | Key | URL |
 | --- | --- |
 | `ritualSplash` | `https://zkhyww.github.io/dao-yuan-assets/ritual-splash/ritual-splash-main.webp` |
+| `splashBgMainPng` | `https://zkhyww.github.io/dao-yuan-assets/ritual-splash/splash-bg-main.png` |
 
 ## Logo And Seal
 
