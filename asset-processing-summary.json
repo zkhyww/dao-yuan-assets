@@ -6,6 +6,8 @@
   "preservedPngOutputs": 8,
   "manifestPath": "D:\\daoyuan\\01_repos\\dao-yuan-assets\\public\\manifest.json",
   "optimizedManifestPath": "D:\\daoyuan\\03_assets\\dao-yuan-visual-optimized\\public\\manifest.json",
-  "githubPagesUrlReady": false,
-  "githubPagesUrlReadinessNote": "Local package and URL map are ready. Public URLs require creating/pushing the GitHub repo and enabling Pages; no push/deploy was performed."
+  "githubPagesUrlReady": true,
+  "githubPagesUrlReadinessNote": "GitHub Pages is published and smoke-tested. AI Studio may reference the remote URLs from manifest.json.",
+  "githubPagesBaseUrl": "https://zkhyww.github.io/dao-yuan-assets",
+  "manifestUrl": "https://zkhyww.github.io/dao-yuan-assets/manifest.json"
 }

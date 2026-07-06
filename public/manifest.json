@@ -44,7 +44,7 @@
     "generatedAt": "2026-07-06T15:05:16",
     "webpQuality": 82,
     "webpTargetWidth": 2560,
-    "baseUrlPlaceholder": "https://<username>.github.io/dao-yuan-assets",
+    "baseUrl": "https://zkhyww.github.io/dao-yuan-assets",
     "note": "Paths are root-relative to the GitHub Pages published public directory."
   }
 }
