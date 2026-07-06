@@ -68,6 +68,8 @@ Do not upload, copy, move, recompress, rename, or otherwise process any images. 
 | --- | --- |
 | `logoReverse` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-logo-reverse-original.png` |
 | `sealTransparent` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-seal-transparent.png` |
+| `headerFullV1` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-header-full-v1.png` |
+| `headerCompactV3` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-header-compact-v3.png` |
 
 ## Transparent Overlay
 

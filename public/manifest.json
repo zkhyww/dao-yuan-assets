@@ -32,6 +32,8 @@
   "splashBgMainPng": "/ritual-splash/splash-bg-main.png",
   "logoReverse": "/logo-seal/dao-yuan-logo-reverse-original.png",
   "sealTransparent": "/logo-seal/dao-yuan-seal-transparent.png",
+  "headerFullV1": "/logo-seal/dao-yuan-header-full-v1.png",
+  "headerCompactV3": "/logo-seal/dao-yuan-header-compact-v3.png",
   "transparentOverlays": {
     "cloud06": "/transparent-overlays/cloud-06.png"
   },

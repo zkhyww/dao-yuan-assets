@@ -47,3 +47,5 @@ The included workflow `.github/workflows/pages.yml` publishes the `public` direc
 | `cloud06` | Transparent cloud overlay 06 | `/transparent-overlays/cloud-06.png` | `https://zkhyww.github.io/dao-yuan-assets/transparent-overlays/cloud-06.png` |
 | `logoReverse` | Dao Yuan reverse logo/original icon | `/logo-seal/dao-yuan-logo-reverse-original.png` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-logo-reverse-original.png` |
 | `sealTransparent` | Dao Yuan transparent seal | `/logo-seal/dao-yuan-seal-transparent.png` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-seal-transparent.png` |
+| `headerFullV1` | Dao Yuan header full logo v1 | `/logo-seal/dao-yuan-header-full-v1.png` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-header-full-v1.png` |
+| `headerCompactV3` | Dao Yuan header compact logo v3 | `/logo-seal/dao-yuan-header-compact-v3.png` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-header-compact-v3.png` |
