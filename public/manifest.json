@@ -1,0 +1,50 @@
+{
+  "home": "/home-backgrounds/01-home-dao-yuan.webp",
+  "liuyao": "/home-backgrounds/02-liuyao-background.webp",
+  "ziwei": "/home-backgrounds/03-ziwei-background.webp",
+  "palmistry": "/home-backgrounds/04-palmistry-background.webp",
+  "fengshui": "/home-backgrounds/05-fengshui-background.webp",
+  "dailyAlmanac": "/home-backgrounds/06-daily-almanac-background.webp",
+  "oracle": "/home-backgrounds/07-oracle-background.webp",
+  "wishLamp": "/home-backgrounds/08-wish-lamp-background.webp",
+  "wishWall": "/home-backgrounds/09-wish-wall-background.webp",
+  "blessingCard": "/home-backgrounds/10-blessing-card-background.webp",
+  "faceReading": "/home-backgrounds/11-face-reading-background.webp",
+  "account": "/home-backgrounds/12-account-background.webp",
+  "courses": "/home-backgrounds/13-courses-background.webp",
+  "consultation": "/home-backgrounds/14-consultation-background.webp",
+  "knowledge": "/home-backgrounds/15-knowledge-background.webp",
+  "shop": "/home-backgrounds/16-shop-background.webp",
+  "namingMain": "/home-backgrounds/17-naming-main-background.webp",
+  "threeSystem": "/home-backgrounds/18-three-system-background.webp",
+  "qimen": "/home-backgrounds/19-qimen-background.webp",
+  "daLiuRen": "/home-backgrounds/20-da-liu-ren-background.webp",
+  "qizhengSiyu": "/home-backgrounds/21-qizheng-siyu-background.webp",
+  "dateSelection": "/home-backgrounds/22-date-selection-background.webp",
+  "birthTimeRectification": "/home-backgrounds/23-birth-time-rectification-background.webp",
+  "personalNaming": "/home-backgrounds/24-personal-naming-background.webp",
+  "businessNaming": "/home-backgrounds/25-business-naming-background.webp",
+  "nameEvaluation": "/home-backgrounds/26-name-evaluation-background.webp",
+  "advancedMethodsHub": "/home-backgrounds/27-advanced-methods-hub-background.webp",
+  "faceReadingReferenceBeta": "/home-backgrounds/reference-legacy/11-face-reading-beta-reference.webp",
+  "ritualSplash": "/ritual-splash/ritual-splash-main.webp",
+  "logoReverse": "/logo-seal/dao-yuan-logo-reverse-original.png",
+  "sealTransparent": "/logo-seal/dao-yuan-seal-transparent.png",
+  "transparentOverlays": {
+    "cloud06": "/transparent-overlays/cloud-06.png"
+  },
+  "opaqueCloudReferences": {
+    "cloud01": "/opaque-cloud-references/cloud-01.png",
+    "cloud02": "/opaque-cloud-references/cloud-02.png",
+    "cloud03": "/opaque-cloud-references/cloud-03.png",
+    "cloud04": "/opaque-cloud-references/cloud-04.png",
+    "cloud05": "/opaque-cloud-references/cloud-05.png"
+  },
+  "_meta": {
+    "generatedAt": "2026-07-06T15:05:16",
+    "webpQuality": 82,
+    "webpTargetWidth": 2560,
+    "baseUrlPlaceholder": "https://<username>.github.io/dao-yuan-assets",
+    "note": "Paths are root-relative to the GitHub Pages published public directory."
+  }
+}

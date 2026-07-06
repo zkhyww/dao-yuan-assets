@@ -1,0 +1,11 @@
+{
+  "inputImages": 37,
+  "validImages": 37,
+  "damagedImages": 0,
+  "webpOutputs": 29,
+  "preservedPngOutputs": 8,
+  "manifestPath": "D:\\daoyuan\\01_repos\\dao-yuan-assets\\public\\manifest.json",
+  "optimizedManifestPath": "D:\\daoyuan\\03_assets\\dao-yuan-visual-optimized\\public\\manifest.json",
+  "githubPagesUrlReady": false,
+  "githubPagesUrlReadinessNote": "Local package and URL map are ready. Public URLs require creating/pushing the GitHub repo and enabling Pages; no push/deploy was performed."
+}
