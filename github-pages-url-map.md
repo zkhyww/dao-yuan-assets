@@ -49,3 +49,8 @@ The included workflow `.github/workflows/pages.yml` publishes the `public` direc
 | `sealTransparent` | Dao Yuan transparent seal | `/logo-seal/dao-yuan-seal-transparent.png` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-seal-transparent.png` |
 | `headerFullV1` | Dao Yuan header full logo v1 | `/logo-seal/dao-yuan-header-full-v1.png` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-header-full-v1.png` |
 | `headerCompactV3` | Dao Yuan header compact logo v3 | `/logo-seal/dao-yuan-header-compact-v3.png` | `https://zkhyww.github.io/dao-yuan-assets/logo-seal/dao-yuan-header-compact-v3.png` |
+| `grandHallWide` | Daoist temple grand hall wide reference | `/temple-references/daoist-temple-grand-hall-wide.png` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-grand-hall-wide.png` |
+| `mainAltarClose` | Daoist temple main altar close reference | `/temple-references/daoist-temple-main-altar-close.png` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-main-altar-close.png` |
+| `deitiesWallFront` | Daoist temple deities wall front reference | `/temple-references/daoist-temple-deities-wall-front.png` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-deities-wall-front.png` |
+| `deitiesHallWide` | Daoist temple deities hall wide reference | `/temple-references/daoist-temple-deities-hall-wide.png` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-deities-hall-wide.png` |
+| `longhuExteriorLandscape` | Longhu temple exterior landscape reference | `/temple-references/longhu-temple-exterior-landscape.png` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/longhu-temple-exterior-landscape.png` |

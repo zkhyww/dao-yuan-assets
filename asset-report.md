@@ -11,10 +11,11 @@ Optimized public package: `D:\daoyuan\03_assets\dao-yuan-visual-optimized\public
 - Valid images: 37
 - Damaged images: 0
 - WebP outputs: 29
-- Preserved PNG outputs: 12
+- Preserved PNG outputs: 17
 - Additional original PNGs published: 2 (`hero-bg-main.png`, `splash-bg-main.png`)
 - Supplemental header logo PNGs published: 2 (`dao-yuan-header-full-v1.png`, `dao-yuan-header-compact-v3.png`)
-- Public image files after supplement: 41
+- Supplemental temple reference PNGs published: 5
+- Public image files after supplement: 46
 - WebP target width: 2560px
 - WebP quality: 82
 

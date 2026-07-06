@@ -88,3 +88,15 @@ These are valid PNG atmosphere references, but they are not transparent overlays
 | `cloud03` | `https://zkhyww.github.io/dao-yuan-assets/opaque-cloud-references/cloud-03.png` |
 | `cloud04` | `https://zkhyww.github.io/dao-yuan-assets/opaque-cloud-references/cloud-04.png` |
 | `cloud05` | `https://zkhyww.github.io/dao-yuan-assets/opaque-cloud-references/cloud-05.png` |
+
+## Temple Reference Images
+
+These contain real temple interiors/exteriors, deity figures, and readable Chinese signage. Use them as reference or atmosphere assets, not as clean no-text hero backgrounds.
+
+| Key | URL |
+| --- | --- |
+| `grandHallWide` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-grand-hall-wide.png` |
+| `mainAltarClose` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-main-altar-close.png` |
+| `deitiesWallFront` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-deities-wall-front.png` |
+| `deitiesHallWide` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/daoist-temple-deities-hall-wide.png` |
+| `longhuExteriorLandscape` | `https://zkhyww.github.io/dao-yuan-assets/temple-references/longhu-temple-exterior-landscape.png` |

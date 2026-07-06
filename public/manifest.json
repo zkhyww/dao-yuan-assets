@@ -44,6 +44,13 @@
     "cloud04": "/opaque-cloud-references/cloud-04.png",
     "cloud05": "/opaque-cloud-references/cloud-05.png"
   },
+  "templeReferences": {
+    "grandHallWide": "/temple-references/daoist-temple-grand-hall-wide.png",
+    "mainAltarClose": "/temple-references/daoist-temple-main-altar-close.png",
+    "deitiesWallFront": "/temple-references/daoist-temple-deities-wall-front.png",
+    "deitiesHallWide": "/temple-references/daoist-temple-deities-hall-wide.png",
+    "longhuExteriorLandscape": "/temple-references/longhu-temple-exterior-landscape.png"
+  },
   "_meta": {
     "generatedAt": "2026-07-06T15:05:16",
     "webpQuality": 82,
